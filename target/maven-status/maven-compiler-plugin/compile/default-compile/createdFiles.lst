@@ -1,9 +1,0 @@
-com\jujuapps\jujucms\helpers\JujuCMSUtils.class
-com\jujuapps\jujucms\JujuCMSBaseAction.class
-com\jujuapps\jujucms\JujuCMSControllerAction.class
-com\jujuapps\jujucms\helpers\annotations\Column.class
-com\jujuapps\jujucms\bean\PageBean.class
-com\jujuapps\jujucms\helpers\ResultSetMapper.class
-com\jujuapps\jujucms\helpers\JujuCMSMetaData.class
-com\jujuapps\jujucms\helpers\annotations\Entity.class
-com\jujuapps\jujucms\JujuCMSLoaderListener.class
